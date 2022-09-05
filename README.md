@@ -22,3 +22,5 @@ Here are some ideas to get you started:
 ![skills](https://skillicons.dev/icons?i=html,css,js,nodejs,mongodb,mysql,git,bash,c,cpp,cs,arduino,haskell,solidity,wordpress,vscode,ps,ai&theme=light)
 
 [![Renzo's GitHub stats](https://github-readme-stats.vercel.app/api?username=renzofatto)](https://github.com/renzofatto/github-readme-stats)
+
+💻 by [Renzo Fattorini](https://renzofatto.com)
