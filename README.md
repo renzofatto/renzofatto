@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 
 [![Renzo's GitHub stats](https://github-readme-stats.vercel.app/api?username=renzofatto)](https://github.com/renzofatto/github-readme-stats)
 
-💻 by [Renzo Fattorini](https://renzofatto.com)
+💻 by [Renzo Fattorini](https://github.com/renzofatto)
