@@ -6,7 +6,7 @@ Bachelor of systems in process, I'm currently learning ![skills](https://skillic
 
 ## 🔧 Technologies
 
-![skills](https://skillicons.dev/icons?i=html,css,js,nodejs,mongodb,git,bash,c,cpp,cs,arduino,haskell,solidity,wordpress,vscode,ps,ai&theme=light)
+![skills](https://skillicons.dev/icons?i=html,css,js,nodejs,mongodb,git,bash,c,cpp,cs,arduino,haskell,solidity,wordpress,vscode,ps,ai&theme=light&size=small)
 
 [![Renzo's GitHub stats](https://github-readme-stats.vercel.app/api?username=renzofatto)](https://github.com/renzofatto/github-readme-stats)
 
