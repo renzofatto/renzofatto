@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi, I'm Renzo Fattorini 👋
 
 <!--
 **renzofatto/renzofatto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Hi,+I'm+Renzo+Fattorini;Uruguayan+software+developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Uruguayan+software+developer;Currently+studying+Bachelor+of+Systems)](https://git.io/typing-svg)
+
+## 🔧 Technologies
+
+![skills](https://skillicons.dev/icons?i=html,css,js,wordpress,nodejs,mongodb,mysql,git,bash,c,cpp,cs,arduino,haskell,solidity,vscode,ps,ai&theme=light)
 
 [![Renzo's GitHub stats](https://github-readme-stats.vercel.app/api?username=renzofatto)](https://github.com/renzofatto/github-readme-stats)
