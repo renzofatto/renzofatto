@@ -2,6 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Uruguayan+software+developer;Currently+studying+Bachelor+of+Systems)](https://git.io/typing-svg)
 
+<br>
+
 Uruguayan 🇺🇾, Bachelor of Systems in process, learning MySQL, in love with Web3 💙
 
 ## 🔧 Technologies
@@ -13,8 +15,8 @@ Uruguayan 🇺🇾, Bachelor of Systems in process, learning MySQL, in love with
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renzofatto&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 --->
 
-
-
-
+<br>
+<br>
+<br>
 
 💻 by [Renzo Fattorini](https://github.com/renzofatto)
