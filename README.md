@@ -9,6 +9,6 @@ Uruguayan 🇺🇾, Bachelor of Systems in process, learning MySQL, in love with
 ![skills](https://skillicons.dev/icons?i=html,css,js,nodejs,mysql,mongodb,git,bash,c,cpp,cs,arduino,haskell,solidity,wordpress,vscode,ps,ai&theme=light&size=small)
 
 [![Renzo's GitHub stats](https://github-readme-stats.vercel.app/api?username=renzofatto)](https://github.com/renzofatto/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renzofatto&layout=compact&theme=vision-friendly-dark)](https://github.com/renzofatto/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renzofatto&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 💻 by [Renzo Fattorini](https://github.com/renzofatto)
