@@ -21,14 +21,11 @@ Uruguayan 🇺🇾, Bachelor of Systems in process, learning MySQL, in love with
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renzofatto"/>
 <br>
 <br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renzofatto&layout=compact&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 --->
 <br>
 <br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=renzofatto)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renzofatto&layout=compact&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 <br>
 💻 by [Renzo Fattorini](https://github.com/renzofatto)
