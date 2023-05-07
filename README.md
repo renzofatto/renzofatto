@@ -4,7 +4,6 @@
 
 Uruguayan 🇺🇾, Bachelor of Systems in process, learning MySQL, in love with Web3 💙
 
-<br>
 
 ## 🔧 Technologies
 
@@ -17,15 +16,13 @@ Uruguayan 🇺🇾, Bachelor of Systems in process, learning MySQL, in love with
 
 <!---
 <br>
-<br>
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renzofatto"/>
-<br>
+
 <br>
 --->
 <br>
-<br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renzofatto&layout=compact&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-<br>
 <br>
 💻 by [Renzo Fattorini](https://github.com/renzofatto)
