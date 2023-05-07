@@ -22,7 +22,7 @@ Uruguayan 🇺🇾, Bachelor of Systems in process, learning MySQL, in love with
 <br>
 <br>
 
-[![Renzo's GitHub stats](https://github-readme-stats.vercel.app/api?username=renzofatto)](https://github.com/anuraghazra/github-readme-stats&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renzofatto&layout=compact&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 --->
 <br>
 <br>
