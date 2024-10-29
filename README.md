@@ -4,7 +4,7 @@
 
 ## 🔧 Technologies
 
-![skills](https://skillicons.dev/icons?i=html,css,js,react,mysql,git,cs,solidity,docker,vscode,ps,ai&theme=light&size=small)
+![skills](https://skillicons.dev/icons?i=cs,html,css,js,react,astro,git,solidity,docker,vscode,ps,ai&theme=light&size=small)
 
 <!---
 [![Renzo's GitHub stats](https://github-readme-stats.vercel.app/api?username=renzofatto)](https://github.com/renzofatto/github-readme-stats)
